@@ -1,0 +1,4 @@
+var calculaItem = function (ID) {
+
+
+}

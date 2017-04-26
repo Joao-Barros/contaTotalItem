@@ -1,0 +1,15 @@
+{
+  "name": "trabalho",
+  "version": "1.0.0",
+  "description": "trabalho orientado à calcular o total de listas de compras quaisquer, ()\u001b[Dconsiderando uma biblioteca comum de itens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Gabriel Fleck Barros e Fernado Michels",
+  "license": "ISC",
+  "devDependencies": {
+    "code": "^4.0.0",
+    "lab": "^13.0.2"
+  }
+}
