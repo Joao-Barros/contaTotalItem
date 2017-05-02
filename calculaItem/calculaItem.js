@@ -1,4 +1,3 @@
-var calculaItem = function (ID) {
-
-
+var calculaTotalItem = function ({id, 'valorUnitario' }) {
+  var valor = valorUnitário;
 }
