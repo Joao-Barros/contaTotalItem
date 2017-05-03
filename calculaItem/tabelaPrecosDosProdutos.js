@@ -1,5 +1,5 @@
-var calculaTotalItem = {
-  tabelaProdutos: [ id, nome, valorUnitario ]
+var calculaTotalItem = function() {
+  tabelaProdutos: [ id, nome, valorUnitario ];
 };
 
 { tabelaProdutos: [
