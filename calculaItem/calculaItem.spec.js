@@ -3,7 +3,7 @@ const lab = exports.lab = Lab.script();
 
 const { expect } = require('code');
 
-const { calculaTotalItem } = require('./calculaTotalItem');
+const { calculaTotalItem } = require('./calculalItem');
 
 lab.experiment('retorna o id', function() {
     lab.test ('deve retornar o nome e o valor do produto', (done) function() {
