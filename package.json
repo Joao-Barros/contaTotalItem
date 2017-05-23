@@ -1,5 +1,5 @@
 {
-  "name": "trabalho",
+  "name": "calculaTotalItem",
   "version": "1.0.0",
   "description": "trabalho orientado à calcular o total de listas de compras quaisquer, ()\u001b[Dconsiderando uma biblioteca comum de itens.",
   "main": "index.js",
